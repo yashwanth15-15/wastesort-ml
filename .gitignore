@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.db
+
+# Virtualenv
+.venv/
+venv/
+ENV/
+env/
+
+# Data / models
+data/
+models/
+*.h5
+*.keras
+*.ckpt
+*.zip
+
+# IDE / OS
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+.DS_Store
+Thumbs.db
+
+# Streamlit
+.streamlit/
